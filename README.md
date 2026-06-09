@@ -32,7 +32,7 @@ Analy AI is an AI-powered scholarship and study abroad assistant designed to hel
 
 ### Home Screen
 
-![Home](../screenshots/home.jpg)
+![Home](screenshots/home.jpg)
 
 ### Chat Interface
 
