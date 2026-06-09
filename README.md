@@ -38,7 +38,7 @@ Analy AI is an AI-powered scholarship and study abroad assistant designed to hel
 
 ![Chat](../screenshots/loading.jpg)
 
-![Chat](../screenshots/chat.jpg)
+![Chat](./screenshots/chat.jpg)
 
 ![Chat](../screenshots/chat-cont.jpg)
 
