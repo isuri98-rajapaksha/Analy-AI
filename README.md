@@ -36,23 +36,23 @@ Analy AI is an AI-powered scholarship and study abroad assistant designed to hel
 
 ### Chat Interface
 
-![Chat](../screenshots/loading.JPG)
+![Chat](screenshots/loading.JPG)
 
-![Chat](./screenshots/chat.JPG)
+![Chat](screenshots/chat.JPG)
 
-![Chat](../screenshots/chat-cont.jpg)
+![Chat](screenshots/chat-cont.JPG)
 
-![Chat](../screenshots/output1.jpg)
+![Chat](screenshots/output1.JPG)
 
-![Chat](../screenshots/output2.jpg)
+![Chat](screenshots/output2.JPG)
 
-![Chat](../screenshots/output3.jpg)
+![Chat](screenshots/output3.JPG)
 
-![Chat](../screenshots/output4.jpg)
+![Chat](screenshots/output4.JPG)
 
 ### PDF Analysis
 
-![PDF](../screenshots/pdf-upload.jpg)
+![PDF](screenshots/pdf-upload.JPG)
 
 ## 💡 Example Use Cases
 
